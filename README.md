@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jai Singh currently working as an Assocate Data Scientist in Cognizant.
+- 👋 Hi, I’m Jai Singh currently working as Data Scientist in Fractal Analytics.
 - 👀 I’m interested in Machine Learning , NLP , Azure and MLOPS 
 - 🌱 I’m currently learning about Graph Machine Learning and Big Data
 - 💞️ I’m looking to collaborate on Graph Machine Learning
